@@ -1,5 +1,3 @@
----
-
 # 📁 ASCII Project Structure Builder
 
 *A tiny Python utility that converts an LLM-generated ASCII folder tree into real folders and files.*
